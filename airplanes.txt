@@ -1,0 +1,103 @@
+Indian Airlines
+Airbus 777
+ARL010
+6:30
+7:15
+Kolkata
+0
+0
+
+Etihad Airways
+Airbus 777
+ARL011
+7:30
+8:15
+Chennai
+0
+0
+
+Etihad Airways
+Airbus 777
+ARL012
+8:30
+9:15
+Guwahati
+0
+0
+
+Jet Airways
+Airbus 777
+ARL013
+9:30
+10:15
+Delhi
+0
+0
+
+SpiceJet
+Airbus 777
+ARL014
+10:30
+11:15
+Hyderabad
+0
+0
+
+Kingfisher
+Airbus 777
+ARL015
+11:30
+12:15
+Chennai
+0
+0
+
+Indian Airlines
+Airbus 777
+ARL016
+12:30
+13:15
+Hyderabad
+0
+0
+
+Indian Airlines
+Airbus 777
+ARL017
+13:30
+14:15
+Kolkata
+0
+0
+
+Kingfisher
+Airbus 777
+ARL018
+14:30
+15:15
+Delhi
+0
+0
+
+SpiceJet
+Airbus 777
+ARL019
+15:30
+16:15
+Mumbai
+0
+0
+
+et
+Airbus 777
+ARL019
+15:30
+16:15
+Mumbai
+----
+----
+
+ai
+ ----
+ ----
+
